@@ -12,7 +12,7 @@
 
 ## Introduction
 
-You've got a friend in need! Your friend Andy recently misplaced all his toys!
+You've got a friend in need! Your friend Andy recently misplaced all their toys!
 Let's write an app that helps Andy keep track of them. For this lab, you will
 need to pull together everything you've learned about manipulating the DOM,
 responding to events, and communicating with the server. Specifically, you will
@@ -32,14 +32,9 @@ The final product should look like this:
 
 ![Toy Tale working app](https://curriculum-content.s3.amazonaws.com/phase-1/communicating-with-the-server/toy_tale.gif)
 
-Note that this lab **does not contain tests**. You will be working from the
-requirements described below and verifying that your code is working correctly
-in the browser.
-
-Once you're done, be sure to commit and push your code up to GitHub, then submit
-the assignment using CodeGrade. Even though this practice lab does not have
-tests, it must still be submitted through CodeGrade in order to be marked as
-complete in Canvas.
+> **Note**: this lab does not contain tests. You will be working from the
+> requirements described below and verifying that your code is working correctly
+> in the browser.
 
 ## Start Up the Server
 
